@@ -2844,3 +2844,503 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2021-09-07 17:09:42,092 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-07 17:09:42,092 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-09-07 17:09:42,092 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-07 17:17:54,049 [Worker-195: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-07 17:17:54,248 [Worker-195: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-07 17:17:54,455 [Worker-195: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 08:31:11,233 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-08 08:53:07,127 [Worker-11: Launching StreamGear.Frontend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier  to /StreamGear.Common/target/classes
+2021-09-08 08:53:07,195 [Worker-11: Launching StreamGear.Frontend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier  to /StreamGear.Common/target/classes
+2021-09-08 08:53:07,421 [Worker-11: Launching StreamGear.Frontend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 08:53:07,708 [Worker-11: Launching StreamGear.Frontend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 08:53:07,991 [Worker-11: Launching StreamGear.Frontend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 08:53:20,435 [Worker-13: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier  to /StreamGear.Common/target/classes
+2021-09-08 08:53:20,452 [Worker-13: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier  to /StreamGear.Common/target/classes
+2021-09-08 08:53:20,612 [Worker-13: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 08:53:20,866 [Worker-13: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 08:53:21,100 [Worker-13: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 09:04:16,457 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:04:16,457 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:04:16,462 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:04:16,486 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:04:16,495 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:04:16,495 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:04:16,495 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:04:17,861 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier  to /StreamGear.Common/target/classes
+2021-09-08 09:06:04,530 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:06:04,530 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:06:04,531 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:06:04,532 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:06:04,536 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:06:04,536 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:06:04,536 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:06:31,615 [Worker-11: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 09:06:31,832 [Worker-11: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 09:06:32,047 [Worker-11: Launching StreamGear.Backend - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 09:07:27,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:07:27,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:07:27,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:07:27,341 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:07:27,345 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:07:27,345 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:07:27,346 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:10:09,512 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:10:09,512 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:10:09,515 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:10:09,526 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:10:09,534 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:10:09,535 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:10:09,535 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:13:30,895 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:13:30,895 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:13:30,898 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:13:30,906 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:13:30,915 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:13:30,915 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:13:30,915 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:13:54,826 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:13:54,826 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:13:54,829 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:13:54,846 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:13:54,853 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:13:54,854 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:13:54,854 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:15:05,130 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:15:05,131 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:15:05,133 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:15:05,145 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:15:05,152 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:15:05,152 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:15:05,152 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:15:18,752 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:15:18,752 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:15:18,754 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:15:18,767 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:15:18,777 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:15:18,777 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:15:18,777 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:15:50,093 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:15:50,093 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:15:50,095 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:15:50,112 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:15:50,118 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:15:50,118 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:15:50,118 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:17:07,380 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:17:07,380 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:17:07,382 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:17:07,391 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:17:07,398 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:17:07,398 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:17:07,398 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:18:01,457 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:18:01,458 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:18:01,460 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:18:01,466 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:18:01,472 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:18:01,472 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:18:01,472 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:18:37,659 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:18:37,659 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:18:37,661 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:18:37,680 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:18:37,686 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:18:37,686 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:18:37,687 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:19:38,868 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:19:38,868 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:19:38,870 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:19:38,899 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:19:38,905 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:19:38,905 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:19:38,905 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:21:19,876 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:21:19,877 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:21:19,877 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:21:19,877 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:21:19,881 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:21:19,881 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:21:19,881 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:22:51,200 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:22:51,202 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:22:51,203 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:22:51,211 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:22:51,218 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:22:51,218 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:22:51,218 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:24:55,227 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:24:55,227 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:24:55,228 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:24:55,238 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:24:55,243 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:24:55,243 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:24:55,244 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:25:42,303 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:25:42,304 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:25:42,306 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:25:42,315 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:25:42,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:25:42,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:25:42,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:29:36,969 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:29:36,969 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:29:36,970 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:29:36,970 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:29:36,973 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:29:36,973 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:29:36,973 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:31:08,049 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:31:08,049 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:31:08,049 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:31:08,050 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:31:08,056 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:31:08,056 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:31:08,057 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:32:49,413 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:32:49,413 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:32:49,415 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:32:49,424 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:32:49,429 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:32:49,430 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:32:49,430 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:33:21,306 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:33:21,306 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:33:21,308 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:33:21,316 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:33:21,321 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:33:21,321 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:33:21,322 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:35:04,746 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:35:04,747 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:35:04,748 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:35:04,756 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:35:04,761 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:35:04,761 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:35:04,762 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:35:49,152 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:35:49,153 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:35:49,154 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:35:49,163 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:35:49,168 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:35:49,169 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:35:49,169 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:36:24,831 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:36:24,831 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:36:24,832 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:36:24,833 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:36:24,842 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:36:24,842 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:36:24,842 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:40:29,822 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:40:29,823 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:40:29,823 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:40:29,823 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:40:29,826 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:40:29,826 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:40:29,826 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:43:05,932 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:43:05,932 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:43:05,934 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:43:05,957 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:43:05,962 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:43:05,962 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:43:05,962 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:45:19,856 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:45:19,856 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:45:19,858 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:45:19,880 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 09:45:19,885 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:45:19,885 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:45:19,885 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 09:46:14,357 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:46:14,358 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:46:14,359 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 09:46:14,359 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 09:46:14,368 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 09:46:14,368 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 09:46:14,368 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:03:10,444 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:03:10,444 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:03:10,444 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:03:10,444 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:03:10,447 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:03:10,447 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:03:10,447 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:03:58,660 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:03:58,660 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:03:58,660 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:03:58,660 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:03:58,664 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:03:58,664 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:03:58,664 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:04:03,524 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:04:03,524 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:04:03,524 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:04:03,525 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:04:03,528 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:04:03,528 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:04:03,528 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:07:13,738 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:07:13,738 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:07:13,740 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:07:13,747 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:07:13,753 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:07:13,753 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:07:13,753 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:08:50,949 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:08:50,950 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:08:50,950 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:08:50,950 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:08:50,951 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:08:50,951 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:08:50,951 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:08:58,745 [Worker-50: Launching UserRepositoryTests.testCountById] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:08:59,079 [Worker-50: Launching UserRepositoryTests.testCountById] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:09:30,618 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:09:30,618 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:09:30,619 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:09:30,619 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:09:30,620 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:09:30,620 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:09:30,620 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:09:35,005 [Worker-44: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:09:35,338 [Worker-44: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:10:28,011 [Worker-49: Launching UserRepositoryTests.testCountById] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:10:28,330 [Worker-49: Launching UserRepositoryTests.testCountById] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:13:14,870 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:13:14,870 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:13:14,872 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:13:14,880 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:13:14,885 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:13:14,885 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:13:14,886 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:14:02,714 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:14:02,714 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:14:02,716 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:14:02,727 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:14:02,732 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:14:02,732 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:14:02,732 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:15:01,419 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:15:01,419 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:15:01,420 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:15:01,420 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:15:01,425 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:15:01,426 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:15:01,426 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:17:12,596 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:17:12,597 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:17:12,599 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:17:12,609 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:17:12,616 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:17:12,616 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:17:12,616 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:17:46,592 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:17:46,593 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:17:46,594 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:17:46,604 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:17:46,610 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:17:46,610 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:17:46,610 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:17:55,847 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:17:55,847 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:17:55,849 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:17:55,859 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:17:55,864 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:17:55,864 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:17:55,865 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:18:31,398 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:18:31,398 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:18:31,400 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:18:31,409 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:18:31,414 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:18:31,415 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:18:31,415 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:19:12,088 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:19:12,088 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:19:12,090 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:19:12,099 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:19:12,105 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:19:12,106 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:19:12,106 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:19:39,852 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:19:39,852 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:19:39,854 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:19:39,864 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:19:39,869 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:19:39,869 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:19:39,869 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:24:09,934 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:24:09,934 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:24:09,934 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:24:09,934 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:24:09,938 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:24:09,938 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:24:09,938 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:25:48,472 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:25:48,473 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:25:48,473 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:25:48,473 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:25:48,477 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:25:48,477 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:25:48,477 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:26:23,556 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:26:23,556 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:26:23,556 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:26:23,557 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:26:23,559 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:26:23,559 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:26:23,559 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:26:37,309 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:26:37,309 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:26:37,309 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:26:37,310 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:26:37,314 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:26:37,314 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:26:37,314 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:28:24,221 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:28:24,221 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:28:24,221 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:28:24,222 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:28:24,225 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:28:24,225 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:28:24,226 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:28:55,106 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:28:55,106 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:28:55,106 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:28:55,106 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:28:55,109 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:28:55,109 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:28:55,109 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:31:01,619 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:31:01,619 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:31:01,620 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:31:01,620 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:31:01,626 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:31:01,626 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:31:01,626 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:32:00,083 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:32:00,083 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:32:00,083 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:32:00,084 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:32:00,087 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:32:00,087 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:32:00,087 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:32:31,405 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:32:31,406 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:32:31,406 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:32:31,406 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:32:31,410 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:32:31,410 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:32:31,411 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:33:47,752 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:33:47,752 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:33:47,752 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:33:47,753 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:33:47,755 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:33:47,755 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:33:47,755 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:38:50,533 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:38:50,533 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:38:50,534 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:38:50,534 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:38:50,537 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:38:50,537 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:38:50,537 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:42:10,717 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:42:10,717 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:42:10,719 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:42:10,727 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:42:10,732 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:42:10,732 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:42:10,732 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:50:02,697 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:50:02,697 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:50:02,699 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:50:02,707 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:50:02,712 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:50:02,712 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:50:02,712 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:50:37,148 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:50:37,148 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:50:37,150 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 10:50:37,156 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 10:50:37,161 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:50:37,161 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:50:37,161 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:51:32,987 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:51:32,987 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:51:32,987 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:51:32,987 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:51:32,989 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:51:32,989 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:51:32,989 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:51:56,992 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:51:56,993 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:51:56,993 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:51:56,993 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:51:56,994 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:51:56,994 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:51:56,994 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:52:02,403 [Worker-66: Launching UserRepositoryTests.testDisableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:52:02,719 [Worker-66: Launching UserRepositoryTests.testDisableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:53:54,273 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:53:54,273 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:53:54,273 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:53:54,273 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 10:53:54,274 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 10:53:54,274 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 10:53:54,274 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 10:54:00,552 [Worker-64: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:54:00,889 [Worker-64: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:54:19,876 [Worker-61: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:54:20,209 [Worker-61: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:55:11,185 [Worker-67: Launching UserRepositoryTests.testDisableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:55:11,513 [Worker-67: Launching UserRepositoryTests.testDisableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:55:27,557 [Worker-62: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:55:27,873 [Worker-62: Launching UserRepositoryTests] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:59:00,154 [Worker-70: Launching UserRepositoryTests.testDisableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:59:00,484 [Worker-70: Launching UserRepositoryTests.testDisableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:59:59,447 [Worker-62: Launching UserRepositoryTests.testEnableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 10:59:59,774 [Worker-62: Launching UserRepositoryTests.testEnableUser] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StreamGear.Common: live.streamgear:StreamGear.Common:0.0.1-SNAPSHOT with classifier null to /StreamGear.Common/target/classes
+2021-09-08 11:03:47,876 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:03:47,877 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:03:47,878 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 11:03:47,897 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 11:03:47,902 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:03:47,902 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:03:47,902 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 11:05:36,214 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:05:36,214 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:05:36,214 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 11:05:36,214 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 11:05:36,217 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:05:36,217 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:05:36,217 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 11:06:49,583 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:06:49,583 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:06:49,584 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 11:06:49,585 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 11:06:49,594 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:06:49,594 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:06:49,594 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 11:12:07,532 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:12:07,532 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:12:07,534 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 11:12:07,542 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 11:12:07,547 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:12:07,548 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:12:07,548 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 11:12:30,104 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:12:30,105 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:12:30,107 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 11:12:30,122 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2021-09-08 11:12:30,127 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:12:30,127 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:12:30,127 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources
+2021-09-08 11:14:18,578 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:14:18,578 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:14:18,579 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-08 11:14:18,579 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-08 11:14:18,583 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-08 11:14:18,583 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-08 11:14:18,583 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sande\Desktop\Capstone\Claim-Academy-Capstone\StreamGear.Live\StreamGear.WebParent\StreamGear.Backend\src\test\resources

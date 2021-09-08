@@ -1,4 +1,19 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.container-fluid
+{
+	padding: 0;
+	margin: 0;
+}
+
+
 *.icon-white {color: white}
 *.icon-silver {color: silver}
 *.icon-red {color: darkred}
 *.icon-dark {color: grey}
+
+a:hover {text-decoration: none;}
